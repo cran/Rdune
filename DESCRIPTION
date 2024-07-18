@@ -1,7 +1,7 @@
 Package: Rdune
 Type: Package
 Title: 'Creates Color Palettes Inspired by Dune'
-Version: 1.0.2
+Version: 1.1.0
 Authors@R: person(given = "Nicholas",
                   family = "Vietto", 
                   email = "nicholasvietto@gmail.com", 
@@ -18,7 +18,7 @@ VignetteBuilder: knitr
 URL: https://github.com/nvietto/Rdune
 BugReports: https://github.com/nvietto/Rdune/issues
 NeedsCompilation: no
-Packaged: 2024-07-05 14:06:08 UTC; nicholasvietto
+Packaged: 2024-07-18 12:27:53 UTC; nicholasvietto
 Author: Nicholas Vietto [aut, cre, cph]
 Repository: CRAN
-Date/Publication: 2024-07-08 05:30:05 UTC
+Date/Publication: 2024-07-18 12:50:02 UTC

@@ -10,14 +10,6 @@ knitr::opts_chunk$set(
 
 library(Rdune)
 
-## -----------------------------------------------------------------------------
-# ?dune_palette
-# ?dune_palettes
-# ?scale_color_dune_c
-# ?scale_color_dune_d
-# ?scale_fill_dune_c
-# ?scale_fill_dune_d
-
 ## ----fig.align='center'-------------------------------------------------------
 names(dune_palettes)
 

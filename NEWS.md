@@ -1,4 +1,10 @@
+# Rdune 1.1.0
+
+* Added a help file, just enter ?Rdune in console after install
+
 # Rdune 1.0.2
+
+* Accepted to CRAN 🎉
 
 * Resubmission to CRAN
 

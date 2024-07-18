@@ -1,7 +1,8 @@
-05b396360edd4e9b0d754ca869242e34 *DESCRIPTION
+2fbfd26e0a548f1c0ba5a2d7d6caf7d9 *DESCRIPTION
 4d00441ce06ee76a4c1712f39bbe34cf *LICENSE
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-22c21ce42122b99f4055a207ff2e4ca5 *NEWS.md
+ee3bf6c40834b99813abffa0a7a019d6 *NEWS.md
+df6cc46bc7fae1a55b713f3d5065b35a *R/Rdune-package.R
 a1860b0a5c602fd9419fec9e9e9d4e19 *R/dune_palette.R
 de0bcb9dcd6e93652e0f9e9875d52a79 *R/dune_palettes.R
 adebfcfdebbe9342d04a80b829a27015 *R/print_palette.R
@@ -9,11 +10,13 @@ adebfcfdebbe9342d04a80b829a27015 *R/print_palette.R
 11951c3a4abc8efd719de9f690dc6607 *R/scale_color_dune_d.R
 fbaafb25314833b1f026c3a8085ba589 *R/scale_fill_dune_c.R
 73c097c62e006b5f9b7f85361bc45a25 *R/scale_fill_dune_d.R
-666bb48bcaebe85a3ff89785b962f486 *README.md
+08c8f0a36bfd7bbc5f6326a21de02d8f *README.md
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
 10da275f639acda88b038446e10e3606 *build/vignette.rds
-fcb12477c9510c17c9b0b3703d60d768 *inst/doc/my-vignette.R
-78bf6b6edc94f8a9b24d31a4967bd2b9 *inst/doc/my-vignette.Rmd
-7db10900fc52d6c8aafa153242a829f8 *inst/doc/my-vignette.html
+f3e72b1191515f74f52ec290847b3368 *inst/doc/my-vignette.R
+6443b79886251e6a33e839a9c6a5ed64 *inst/doc/my-vignette.Rmd
+26faa912c4f66a05ae006285cbfef3f0 *inst/doc/my-vignette.html
+79f8268f25c725cf027bf90308ccf3df *man/Rdune-package.Rd
 cd8129865c8cb229eef797125bc65ced *man/dune_palette.Rd
 65718dbae48c55d3fbe5b9d17d1173f8 *man/dune_palettes.Rd
 d1c4d3e0093a7ab99d5e040bd1b84057 *man/figures/Arrakis.jpg
@@ -22,7 +25,7 @@ d1c4d3e0093a7ab99d5e040bd1b84057 *man/figures/Arrakis.jpg
 444555267af994c82d589afa4a70094a *man/figures/Atreides3.jpg
 6c737ad3151d35200bb5a530586ec8d2 *man/figures/Atreides4.jpg
 20333dcba20c99bbd1cd24cab3bf8a79 *man/figures/README-example1-1.png
-4782ea2b2c681ac76b52d2e76af1aedc *man/figures/README-example2-1.png
+b3aee388f1fc5849b05d9dd1aed86e79 *man/figures/README-example2-1.png
 929161012e817feb54d3517886c38edb *man/figures/README-unnamed-chunk-2-1.png
 5acc7dafd7a9e8a6707e46948164260a *man/figures/README-unnamed-chunk-3-1.png
 616418224b1ba86b737a777caccb0f96 *man/figures/bene_gesserit.jpg
@@ -43,4 +46,4 @@ c0b00e337d97ac662de02abb21cb8224 *man/scale_fill_dune_c.Rd
 61148ee71265a16e8c52e936adbe01f5 *man/scale_fill_dune_d.Rd
 95fed6c1b295d3c1565b25aac8bc4558 *tests/testthat.R
 e755326909003772707f63ea77433187 *tests/testthat/test-scales.R
-78bf6b6edc94f8a9b24d31a4967bd2b9 *vignettes/my-vignette.Rmd
+6443b79886251e6a33e839a9c6a5ed64 *vignettes/my-vignette.Rmd
